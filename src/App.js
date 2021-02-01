@@ -7,11 +7,6 @@
 
 
   class App extends Component {
-    constructor(props) {
-      super(props);
-    }
-
-
     render() {
       return (
         <div className="page-wrapper"  role="main">
